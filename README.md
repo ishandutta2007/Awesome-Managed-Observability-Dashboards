@@ -1,6 +1,6 @@
 # Awesome-Managed-Observability-Dashboards
 
-# Top Managed Observability & Dashboards Tools Ecosystem
+## Top Managed Observability & Dashboards Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Metrics Visualization, Log Analytics & Distributed Tracing Dashboards*  
