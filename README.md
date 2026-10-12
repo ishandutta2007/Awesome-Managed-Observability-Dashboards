@@ -64,9 +64,9 @@ The table below catalogs premier hosted observability vendors, sorted descending
 
 ## 🔓 Open-Source GitHub Projects
 
-The following self-hosted and community-driven projects are sorted descending by their official GitHub stargazer counts. Each entry includes a live social star badge linking to the repository's stargazers.
+The following self-hosted and community-driven projects are sorted descending by their official GitHub stargazer counts. Each entry includes a live social Stars_Badge linking to the repository's stargazers.
 
-| 📦 Repository & Project | ⭐ GitHub Stars | ⚖️ License | 📝 Overview & Core Tech Stack |
+| 📦 Repository & Project | ⭐ GitHub_Stars | ⚖️ License | 📝 Overview & Core Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** | [![Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers) | `MIT` | Self-hosted uptime monitoring service featuring customizable dashboards, status pages, certificate tracking, and multi-channel notifications. |
 | **[Netdata](https://github.com/netdata/netdata)** | [![Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers) | `GPL-3.0` | Ultra-fast, real-time performance and health monitoring agent collecting per-second system, container, and application metrics. |
@@ -154,7 +154,7 @@ We love contributions! Follow these steps to submit a new observability platform
 2. 🌿 **Create a new branch** (`git checkout -b add-my-telemetry-tool`).
 3. 📝 **Add or update the tool entry** in `README.md` following the established table structure.
    - For SaaS tools: include verified starting price, free tier/trial limits, and enterprise valuation.
-   - For open-source tools: include official GitHub repo link and ensure the star badge uses `style=social&color=white`.
+   - For open-source tools: include official GitHub repo link and ensure the Stars_Badge uses `style=social&color=white`.
 4. 💡 **Submit a Pull Request (PR)** with a concise rationale and documentation citation.
 
 ---
